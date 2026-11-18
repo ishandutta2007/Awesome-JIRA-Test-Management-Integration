@@ -68,9 +68,9 @@ The table below presents leading SaaS and Atlassian Marketplace test management 
 
 ## 🌟 Open-Source GitHub Projects
 
-Open-source test management platforms, test reporting orchestrators, and developer toolkits sorted in **descending order by GitHub star count**.
+Open-source test management platforms, test reporting orchestrators, and developer toolkits sorted in **descending order by GitHub Stars_Count**.
 
-| 📦 Repository & Project | ⭐ GitHub Stars (Live Badge) | 🎯 Category / Technology Stack | 📝 Description & Jira Traceability Synergy |
+| 📦 Repository & Project | ⭐ GitHub_Stars (Live Badge) | 🎯 Category / Technology Stack | 📝 Description & Jira Traceability Synergy |
 | :--- | :---: | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Workflow Automation & Orchestration (Node.js/TypeScript) | Self-hostable workflow automation engine with native Jira nodes to auto-generate Jira bugs from CI/CD test suite failures and dispatch QA webhooks. |
 | **[Plane](https://github.com/makeplane/plane)** | [![Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | Agile Project & Issue Management (Python/TypeScript) | Modern open-source Jira and Linear alternative with rich issue lifecycles, Kanban/cycles tracking, and integration hooks for QA test suites. |
@@ -155,7 +155,7 @@ Contributions are welcome! Please read the contribution guidelines below before 
 1. **Fork the repository** to your personal GitHub account.
 2. **Review formatting conventions**:
    - For **SaaS Platforms**: Include exact starting tier pricing, specific free trial / free plan limits, verified valuation/revenue scale, and a functional link.
-   - For **Open-Source Projects**: Include the live social-style star badge linked to the repo's stargazers page (`https://github.com/owner/repo/stargazers`), technology stack, and a clear description highlighting Jira integration.
+   - For **Open-Source Projects**: Include the live social-style Stars_Badge linked to the repo's stargazers page (`https://github.com/owner/repo/stargazers`), technology stack, and a clear description highlighting Jira integration.
 3. **Commit your changes**: Ensure commit messages are descriptive (e.g., `feat: add new open-source test reporter`).
 4. **Submit a Pull Request**: Provide a concise summary of the added tool and verify that all links are active and accurate.
 
