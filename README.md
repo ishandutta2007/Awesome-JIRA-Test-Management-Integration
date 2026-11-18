@@ -68,7 +68,7 @@ The table below presents leading SaaS and Atlassian Marketplace test management 
 
 ## 🌟 Open-Source GitHub Projects
 
-Open-source test management platforms, test reporting orchestrators, and developer toolkits sorted in **descending order by GitHub Stars_Count**.
+Open-source test management platforms, test reporting orchestrators, and developer toolkits sorted in **descending order by GitHub_Stars_Count**.
 
 | 📦 Repository & Project | ⭐ GitHub_Stars (Live Badge) | 🎯 Category / Technology Stack | 📝 Description & Jira Traceability Synergy |
 | :--- | :---: | :--- | :--- |
